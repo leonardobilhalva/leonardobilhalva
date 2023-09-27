@@ -9,9 +9,9 @@
 
 - 📚 I’m currently reading [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.amazon.com.br/Cloud-Native-Go-Unreliable-Environments/dp/1492076333)
 
-- 👨‍💻 All of my projects are available at [here at gitthub 😚](here at gitthub 😚)
+- 👨‍💻 All of my projects are available here at gitthub 😚
 
-- 📝 I regularly write articles on [<- let this here to motivates me to do it on future](<- let this here to motivates me to do it on future)
+- 📝 I regularly write articles on <-  let this here to motivates me to do it so near future 🫡
 
 - 💬 Ask me about **Microservices, Databases, Parallel Computing, Distributed Systems, Software Engineering and Computer Science in general.**
 
