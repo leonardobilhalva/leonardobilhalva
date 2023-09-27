@@ -1,4 +1,4 @@
-sv<h1 align="center">Hi 👋, I'm Leonardo Bilhalva</h1>
+<h1 align="center">Hi 👋, I'm Leonardo Bilhalva</h1>
 <h3 align="center">An Undergraduate Computer Science student and Grêmio FBPA fan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardobilhalva&label=Profile%20views&color=0e75b6&style=flat" alt="leonardobilhalva" /> </p>
