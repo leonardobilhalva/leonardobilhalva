@@ -16,7 +16,6 @@ My interests are related to programming too. I enjoy studying all of them in the
 📧 &emsp; **Reach me anytime**: leobbbilhalva@gmail.com<br/> 
 <a href="https://www.linkedin.com/in/leonardo-bilhalva-32a55b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-bilhalva-32a55b214/" height="40" width="40" /></a>
 </p>
-<br/>
 
 ## What you will find here
 
