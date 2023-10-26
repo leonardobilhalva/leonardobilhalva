@@ -28,10 +28,11 @@ My interests are related to programming too. I enjoy studying all of them in the
 
 ## What am I currently doing 
 
-🥳 &emsp; At university's vacation time <br/>
+🧐 &emsp; Coursing INF01008, INF01017 and INF01043 <br/>
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
-🧐 &emsp; Studying Golang at [go-studies](https://github.com/leonardobilhalva/go_studies) <br/>
-🧐 &emsp; Studying React at [react-studies](https://github.com/leonardobilhalva/react_studies) <br/>
+🧐 &emsp; Mainly studying Swift at [swift-studies](https://github.com/leonardobilhalva/swift_studies) <br/>
+🧐 &emsp; Side project studying Golang at [go-studies](https://github.com/leonardobilhalva/go_studies) <br/>
+🧐 &emsp; Side project studying React at [react-studies](https://github.com/leonardobilhalva/react_studies) <br/>
 📚 &emsp; I’m currently reading [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.amazon.com.br/Cloud-Native-Go-Unreliable-Environments/dp/1492076333) <br/>
 
 ## Languages and tools that I work with:
