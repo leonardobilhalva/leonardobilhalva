@@ -30,10 +30,8 @@ My interests are related to programming too. I enjoy studying all of them in the
 
 🧐 &emsp; Coursing INF01008, INF01017 and INF01043 <br/>
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
-🧐 &emsp; Mainly studying Swift at [swift-studies](https://github.com/leonardobilhalva/swift_studies) <br/>
-🧐 &emsp; Side project studying Golang at [go-studies](https://github.com/leonardobilhalva/go_studies) <br/>
-🧐 &emsp; Side project studying React at [react-studies](https://github.com/leonardobilhalva/react_studies) <br/>
-📚 &emsp; I’m currently reading [Cloud Native Go: Building Reliable Services in Unreliable Environments](https://www.amazon.com.br/Cloud-Native-Go-Unreliable-Environments/dp/1492076333) <br/>
+🧐 &emsp; Mainly studying Swift [here](https://github.com/leonardobilhalva/swift_studies), [there](https://github.com/leonardobilhalva/CS193p-Developing_Apps_for_iOS) and everywhere<br/>
+🧐 &emsp; Researching about [clothing simulation](https://github.com/leonardobilhalva/Discovering_Cloth_Simulation)<br/>
 
 ## Languages and tools that I work with:
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  </a> 
