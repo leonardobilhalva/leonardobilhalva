@@ -29,6 +29,7 @@ My interests are related to programming too. I enjoy studying all of them in the
 ## What am I currently doing 
 
 🧐 &emsp; Coursing INF01008, INF01017 and INF01043 <br/>
+👨🏻‍💻 &emsp; Developing iOS software at [Prêt-à-Template](https://www.pretatemplate.com)
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
 🧐 &emsp; Mainly studying Swift [here](https://github.com/leonardobilhalva/swift_studies), [there](https://github.com/leonardobilhalva/CS193p-Developing_Apps_for_iOS) and everywhere<br/>
 🧐 &emsp; Researching about [clothing simulation](https://github.com/leonardobilhalva/Discovering_Cloth_Simulation) and [machine learning](https://github.com/leonardobilhalva/Discovering_Machine_Learning)<br/>
