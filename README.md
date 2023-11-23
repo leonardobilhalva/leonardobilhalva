@@ -12,7 +12,7 @@ I’ve been programming now for four years, and I’ve loved it since the beginn
 My interests are related to programming too. I enjoy studying all of them in their thresholds, like implementing high demand for communication and availability in a distributed system or finding the best practices for database maintenance. At the end of the day, it‘s not a good problem if there is no need to think about solving it, right?
 
 
-🎓 &emsp; **Academic interest**: Microservices, Databases, Parallel Computing, Distributed Systems, Software Engineering.<br/> 
+🎓 &emsp; **Academic interest**: Microservices, Machine Learning, Databases, Parallel Computing, Distributed Systems, Software Engineering.<br/> 
 📧 &emsp; **Reach me anytime**: leobbbilhalva@gmail.com<br/> 
 <a href="https://www.linkedin.com/in/leonardo-bilhalva-32a55b214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-bilhalva-32a55b214/" height="40" width="40" /></a>
 </p>
@@ -31,7 +31,8 @@ My interests are related to programming too. I enjoy studying all of them in the
 🧐 &emsp; Coursing INF01008, INF01017 and INF01043 <br/>
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
 🧐 &emsp; Mainly studying Swift [here](https://github.com/leonardobilhalva/swift_studies), [there](https://github.com/leonardobilhalva/CS193p-Developing_Apps_for_iOS) and everywhere<br/>
-🧐 &emsp; Researching about [clothing simulation](https://github.com/leonardobilhalva/Discovering_Cloth_Simulation)<br/>
+🧐 &emsp; Researching about [clothing simulation](https://github.com/leonardobilhalva/Discovering_Cloth_Simulation) and [machine learning](https://github.com/leonardobilhalva/Discovering_Machine_Learning)<br/>
+📚 &emsp; Currently reading [INTELIGÊNCIA ARTIFICIAL - Uma Abordagem de Aprendizado de Máquina](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521637349)<br/> 
 
 ## Languages and tools that I work with:
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  </a> 
