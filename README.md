@@ -32,8 +32,8 @@ My interests are related to programming too. I enjoy studying all of them in the
 👨🏻‍💻 &emsp; Developing iOS software at [Prêt-à-Template](https://www.pretatemplate.com) <br/>
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
 🧐 &emsp; Mainly studying Swift [here](https://github.com/leonardobilhalva/swift_studies) now focused on [kodeco](https://www.kodeco.com/home)<br/>
-🧐 &emsp; Researching about [machine learning](https://github.com/leonardobilhalva/Discovering_Machine_Learning)<br/>
-📚 &emsp; Currently reading [INTELIGÊNCIA ARTIFICIAL - Uma Abordagem de Aprendizado de Máquina](https://www.amazon.com.br/Inteligência-Artificial-Abordagem-Aprendizado-Máquina/dp/8521637349)<br/> 
+🧐 &emsp; Researching about [natural language processing]<br/>
+📚 &emsp; Currently reading [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/1a-edicao/)<br/> 
 
 ## Languages and tools that I work with:
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  </a> 
