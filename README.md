@@ -32,7 +32,7 @@ My interests are related to programming too. I enjoy studying all of them in the
 👨🏻‍💻 &emsp; Developing iOS software at [Prêt-à-Template](https://www.pretatemplate.com) <br/>
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
 🧐 &emsp; Mainly studying Swift [here](https://github.com/leonardobilhalva/swift_studies) now focused on [kodeco](https://www.kodeco.com/home)<br/>
-🧐 &emsp; Researching about [natural language processing]<br/>
+🧐 &emsp; Researching about natural language processing<br/>
 📚 &emsp; Currently reading [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/1a-edicao/)<br/> 
 
 ## Languages and tools that I work with:
