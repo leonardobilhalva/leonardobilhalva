@@ -28,7 +28,7 @@ My interests are related to programming too. I enjoy studying all of them in the
 
 ## What am I currently doing 
 
-🧐 &emsp; Coursing INF01008, INF01017 and INF01043 <br/>
+🧐 &emsp; Coursing -, - and - <br/>
 👨🏻‍💻 &emsp; Developing iOS software at [Prêt-à-Template](https://www.pretatemplate.com) <br/>
 🧐 &emsp; Organizing old university projects on Gitthub <br/>
 🧐 &emsp; Mainly studying Swift [here](https://github.com/leonardobilhalva/swift_studies) now focused on [kodeco](https://www.kodeco.com/home)<br/>
