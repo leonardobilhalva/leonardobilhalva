@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm currently enrolled in a Computer Science program at the [Universidade Federal do Rio Grande do Sul](https://www.inf.ufrgs.br/site/graduacao/ciencia-da-computacao/) aka UFRGS. I love to watch movies, listen to music and suffer from all kinds of pain from rooting for Grêmio, my beloved soccer team.
+I'm currently enrolled in a Computer Science program at the [Universidade Federal do Rio Grande do Sul](https://www.inf.ufrgs.br/site/graduacao/ciencia-da-computacao/) aka UFRGS. I love to watch [movies](https://letterboxd.com/LukiisBR/), listen to music and suffer from all kinds of pain from rooting for Grêmio, my beloved soccer team.
 
 I’ve been programming now for four years, and I’ve loved it since the beginning. It can be really funny if you face it as a challenge or a puzzle to be solved.
 My interests are related to programming too. I enjoy studying all of them in their thresholds, like implementing high demand for communication and availability in a distributed system or finding the best practices for database maintenance. At the end of the day, it‘s not a good problem if there is no need to think about solving it, right?
